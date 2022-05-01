@@ -1,19 +1,8 @@
-name: "[acid]Neon[cyan]Nights"
-displayName: "[acid]Neon[cyan]Nights"
-author: "!ereHyddeS#9188"
-description: "Makes Mindustry Dark Themed!
-
-Credits[white]:
-• ME, !ereHyddeS, for making this out of boredom
-• Antlrr, for contributing lots
-• Woop, for contributing few
-• Blop, for ideas and for meme dump
-• WMF, for being a cat and for helping me in github
-• Gus, will come for you if you dare steal the mod or anything similar
-
-Changelogs:
-• Fixed Issue: Some blocks in schematics are not neon
-• New Color Pallete for Support and Specialist effects (Does not affect everything)"
-version: "1.3"
-minGameVersion: "120"
-hidden: "true"
+name: NeonNights
+displayName: NeonNights
+author: "buthed010203 (genNAowl, !ereHyddeS upstream)"
+description: "Fork of NeonNights with prebled & antialiased sprites. Avoids having to bleed at runtime."
+version: 1.0
+minGameVersion: 135
+hidden: true
+prebled: true
