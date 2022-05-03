@@ -5,4 +5,3 @@ description: "Fork of NeonNights with prebled & antialiased sprites. Avoids havi
 version: 1.0
 minGameVersion: 135
 hidden: true
-prebled: true
