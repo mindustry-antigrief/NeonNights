@@ -3,6 +3,6 @@ displayName: NeonNights
 author: "buthed010203 (genNAowl, !ereHyddeS upstream)"
 description: "Fork of NeonNights with prebled & antialiased sprites. Avoids having to bleed at runtime."
 version: 1.0
-minGameVersion: 135
+minGameVersion: 136
 hidden: true
 prebled: true
